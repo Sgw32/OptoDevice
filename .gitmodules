@@ -1,0 +1,6 @@
+[submodule "i2cdevlib"]
+	path = i2cdevlib
+	url = https://github.com/mjguisado/i2cdevlib.git
+[submodule "arduino"]
+	path = arduino
+	url = https://github.com/landis/arduino.git
