@@ -4,3 +4,6 @@
 [submodule "arduino"]
 	path = arduino
 	url = https://github.com/landis/arduino.git
+[submodule "Adafruit-MLX90614-Library"]
+	path = Adafruit-MLX90614-Library
+	url = https://github.com/adafruit/Adafruit-MLX90614-Library.git
